@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4452","Login with valid credentials","","Sat Sep 06 07:39:22 WAT 2025","passed","Sat Sep 06 07:39:27 WAT 2025","","Saucedemo Login Feature","",""
+"","5465","Login with only username","","Sat Sep 06 07:39:45 WAT 2025","failed","Sat Sep 06 07:39:50 WAT 2025","","Saucedemo Login Feature","",""
+"","5376","Login with invalid password","","Sat Sep 06 07:39:34 WAT 2025","failed","Sat Sep 06 07:39:39 WAT 2025","","Saucedemo Login Feature","",""
+"","6432","Login with invalid username","","Sat Sep 06 07:39:27 WAT 2025","failed","Sat Sep 06 07:39:34 WAT 2025","","Saucedemo Login Feature","",""
+"","5421","Login with empty fields","","Sat Sep 06 07:39:39 WAT 2025","failed","Sat Sep 06 07:39:45 WAT 2025","","Saucedemo Login Feature","",""
